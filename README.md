@@ -24,11 +24,16 @@ Most of my hands-on experience is in **frontend** (React, Next.js, TypeScript), 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [trashydance](https://github.com/trashydance/trashydance) | Real-time 1-to-1 chat web app, final 42 project. I was **technical lead**: auth (OAuth 2.0 + 2FA), database schema, Docker deploy, tests | Next.js, React, Socket.IO, Drizzle, Docker, Vitest, Cypress |
+| [Eththon](https://github.com/Luceva2002/ETHRome-Hackathon) · [demo](https://eththon.vercel.app) | 🏆 **Arbitrum & 1inch bounty winner at ETHRome 2025.** Web3 bill-splitting app built in 48 hours in a team of two; I built wallet connection and the auth/profile flows | Next.js, TypeScript, wagmi, OnchainKit, Supabase, Solidity |
 | [webserv](https://github.com/cameriere-di-rete/webserv) | HTTP server written from scratch, nginx-style config, CGI, uploads | C++, CMake, GoogleTest, GitHub Actions |
 | [cub3d](https://github.com/edforte/cub3d) | Wolfenstein 3D-style raycasting engine with doors, minimap and mouse look | C, MiniLibX |
 | [Philosophers](https://github.com/edforte/Philosophers) | Dining philosophers with threads and mutexes, no deadlocks or data races | C, pthreads |
 | [cpp-modules](https://github.com/edforte/cpp-modules) | Object-oriented programming in C++98, step by step | C++98 |
 | [pipex](https://github.com/edforte/pipex) | Shell pipelines with `fork`, `pipe` and `execve` | C, Unix |
+
+## Awards
+
+🏆 **ETHRome 2025**: winner of the Arbitrum and 1inch sponsor bounties with Eththon (Oct 2025).
 
 ## Experience
 
